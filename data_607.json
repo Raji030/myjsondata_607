@@ -1,0 +1,28 @@
+[
+   {
+      "Title": "Applied Fluid Mechanics",
+      "Author": "Robert L. Mott",
+      "Genre": "Education",
+      "First_Published": "1992",
+      "Price": "157.26"
+   },
+   {
+      "Title": "Fluid Mechanics with Engineering Applications",
+      "Author": [
+          
+             "Robert L. Daugherty",
+            "Joseph B. Franzini",
+            "E. John Finnemore"
+          ],
+      "Genre": "Education",
+      "First_Published": "1984",
+      "Price": "174.33"
+   },
+    {
+      "Title": "Basics of Fluid Mechanics",
+      "Author": "Genick Bar-Meir",
+      "Genre": "Education",
+      "First_Published": "2009",
+      "Price": "33.50"
+   } 
+]
